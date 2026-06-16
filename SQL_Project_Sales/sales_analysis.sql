@@ -1,0 +1,3 @@
+SELECT DISTINCT event_name
+FROM mercadolibre_funnel
+ORDER BY event_name;
