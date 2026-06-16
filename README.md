@@ -18,5 +18,6 @@ Este análisis proporciona una visión integral del customer journey y permite r
 ¿Qué etapas del proceso requieren optimización para incrementar las ventas?
 ## Contacto
 Correo: cesarpalacioleiva@gmail.com
+
 www.linkedin.com/in/cesar-palacio-data
 
