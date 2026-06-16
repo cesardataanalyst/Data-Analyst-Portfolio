@@ -1,3 +1,8 @@
+# Proyecto de Ventas
+## Objetivo
+Analizar las ventas de una empresa.
+## Herramientas
+Excel y SQL
 SELECT DISTINCT event_name
 FROM mercadolibre_funnel
 ORDER BY event_name;
