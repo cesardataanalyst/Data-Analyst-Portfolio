@@ -16,3 +16,7 @@ Este análisis proporciona una visión integral del customer journey y permite r
 ¿Dónde se presentan las mayores pérdidas de usuarios?
 ¿Qué países presentan mejores niveles de conversión?
 ¿Qué etapas del proceso requieren optimización para incrementar las ventas?
+## Contacto
+Correo: cesarpalacioleiva@gmail.com
+www.linkedin.com/in/cesar-palacio-data
+
