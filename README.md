@@ -17,7 +17,7 @@ Este análisis proporciona una visión integral del customer journey y permite r
 ¿Qué países presentan mejores niveles de conversión?
 ¿Qué etapas del proceso requieren optimización para incrementar las ventas?
 ## Contacto
-Correo: cesarpalacioleiva@gmail.com
+📧 cesarpalacioleiva@gmail.com
 
-www.linkedin.com/in/cesar-palacio-data
+🔗 www.linkedin.com/in/cesar-palacio-data
 
